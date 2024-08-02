@@ -1,0 +1,17 @@
+.root {
+    height: 100%;
+    width: 100%;
+}
+
+.form {
+    margin: 16px;
+}
+
+.btnSubmitWrapper {
+    text-align: center;
+    margin-top: 8px;
+}
+
+.map-container {
+    height: 100%;
+}
